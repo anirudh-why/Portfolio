@@ -32,8 +32,8 @@ const Projects = () => {
       techStack: "React Js, Javascript ,Bootstrap.",
       description: "A portfolio website showcasing skills, projects, achievements, and contact information with interactive features.",
       fullDescription: "This portfolio website highlights personal skills, projects, and achievements, featuring a dynamic and interactive layout. It offers detailed sections on education, skills, and notable accomplishments, with engaging elements such as animated text and a visually appealing design. Users can explore projects, learn more about the individual, and easily make contact.",
-      codeLink: "https://github.com",
-      deploymentLink: "https://deployment-link.com",
+      codeLink: "https://github.com/anirudh-why/Portfolio",
+      deploymentLink: "https://portfolio-gsi6oczr0-anirudhs-projects-4ff2063b.vercel.app/",
     },
   ];
 
