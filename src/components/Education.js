@@ -17,7 +17,7 @@ const Education = () => {
         </div>
         <div className="education-card">
           <h3>Schooling</h3>
-          <p>XYZ High School</p>
+          <p>Dehli Public School Nacharam</p>
           <p>Year of Completion: 2020</p>
         </div>
       </div>

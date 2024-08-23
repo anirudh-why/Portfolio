@@ -28,7 +28,7 @@ const Projects = () => {
     },
     {
       image: pf,
-      title: "Porfolio",
+      title: "Portfolio",
       techStack: "React Js, Javascript ,Bootstrap.",
       description: "A portfolio website showcasing skills, projects, achievements, and contact information with interactive features.",
       fullDescription: "This portfolio website highlights personal skills, projects, and achievements, featuring a dynamic and interactive layout. It offers detailed sections on education, skills, and notable accomplishments, with engaging elements such as animated text and a visually appealing design. Users can explore projects, learn more about the individual, and easily make contact.",
